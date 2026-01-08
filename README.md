@@ -1,3 +1,4 @@
 <h1 align="center">Hello, I'm Martin!</h1>
 
-I'm a recent **Software Engineering graduate** focused in **Full-Stack Development** primarily with **React**, **ASP.NET Core**, and **SQL**.
+Recent **Software Engineering Graduate** focused in **Full-Stack Development** primarily with **React**, **.NET Core**, and **SQL**.
+Currently honing my skills and learning new ones, such as **Low-level Programming** in preparation for grad school.
