@@ -1,3 +1,3 @@
-<h1 align="center">Hi!</h1>
+<h1 align="center">Hello, I'm Martin!</h1>
 
-Writing something soon...
+I'm a recent **Software Engineering graduate** focused in **Full-Stack Development** primarily with **React**, **ASP.NET Core**, and **SQL**.
